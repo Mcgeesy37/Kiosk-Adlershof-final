@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>UPS Paketshop Adlershof Berlin – Paket abgeben & versenden</title>
+<meta name="description" content="UPS Paketshop in Adlershof Berlin. Pakete schnell abgeben, versenden oder abholen. Zentral gelegen am Kiosk.">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<section class="hero">
+  <div class="container">
+    <h1>UPS Paketshop in Adlershof</h1>
+    <p>Pakete abgeben, versenden & abholen – schnell und unkompliziert.</p>
+
+    <a href="index.html" class="btn">Zum Kiosk</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+
+    <h2>Dein UPS Service in Berlin Adlershof</h2>
+
+    <p>
+      Du willst ein Paket verschicken oder abholen?
+      Bei uns kannst du deine UPS Sendungen schnell und sicher abwickeln –
+      direkt vor Ort im Kiosk.
+    </p>
+
+    <ul>
+      <li>Paketabgabe</li>
+      <li>Paketversand</li>
+      <li>Abholung von Sendungen</li>
+      <li>Zentrale Lage in Adlershof</li>
+    </ul>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Standort</h2>
+    <p>Rudower Chaussee 5B, 12489 Berlin</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Weitere Services</h2>
+    <ul>
+      <li><a href="drucken-adlershof.html">Drucken & Kopieren</a></li>
+      <li><a href="lotto-adlershof.html">Lotto spielen</a></li>
+      <li><a href="geldtransfer-adlershof.html">Geldtransfer</a></li>
+    </ul>
+  </div>
+</section>
+
+</body>
+</html>
